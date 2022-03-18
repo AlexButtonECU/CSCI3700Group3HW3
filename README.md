@@ -1,5 +1,5 @@
 Made by: Group 3
-Alex Button
+Alex Button,
 Tristan Ernhart
 
 ## Quick Start
